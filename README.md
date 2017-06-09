@@ -1,6 +1,6 @@
 # RelianceBroadband-Login
 
-Keep yourself logged in your Reliance Broadband with these scripts.
+Keep yourself logged into your Reliance Broadband with these scripts.
 
 ## Installation
 
